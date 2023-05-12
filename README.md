@@ -1,4 +1,4 @@
-# enumerable
+# Enumerable
 In this project we will learn how to use a module inside class. For this we will create a class MyList and a module MyEnumerable. Our module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 <a name="readme-top"></a>
@@ -24,28 +24,37 @@ In this project we will learn how to use a module inside class. For this we will
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 diagram-based-database <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
+In this project we have implemented below three enumerable methods:
+- #all?
+- #any?
+- #filter
 
-A well-designed database that can make it easier for clinic to operate more efficiently and effectively. It can also help to improve the client experience, by making it easier for clients to get the information and services they need about the animals / pets.
-
-**[diagram-based-database]** is a relational database set up application
+Create a class MyList that has an instance variable @list.
+In MyList implement a method #each that yields successive members of @list and uses the MyEnumerable module.
+Create a module MyEnumerable that implements the following methods (they should have the same funcionality as methods in Enumerable):
+- #all?
+- #any?
+- #filter
+Each class and module should has a separate .rb file.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-<summary>Database</summary>
+<summary>Language</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://ruby-doc.org/core-3.0.0/Enumerable.html">Ruby</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
-- **[Add patients table]**
-- **[Add medical_histories table]**
-- **[Add treatments table]**
+- **[Implement Enumerable]**
+- **[Add #all?]**
+- **[Add #any?]**
+- **[Add #filter]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
