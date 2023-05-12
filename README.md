@@ -82,7 +82,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd your-desired-folder
-  git clone git@github.com:Leeoasis/diagram-based-database.git
+  git clone git@github.com:Leeoasis/enumerable.git
 ```
 
 ### Install
@@ -90,12 +90,6 @@ Clone this repository to your desired folder:
 Install this project with:
 
 - besides the previuous installations, no other installations are required
-
-### Usage
-
-To run the project, execute the following command:
-
-- run the sql commands in the schema.sql file to create the tables
 
 ### Run tests
 
