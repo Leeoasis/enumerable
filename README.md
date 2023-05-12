@@ -73,8 +73,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - a browser
-- to install postgresql on your commputer
-- to install pgadmin on your computer
+- to install Ruby on your commputer
 
 ### Setup
 
