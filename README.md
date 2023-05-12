@@ -73,7 +73,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - a browser
-- to install Ruby on your commputer
+- Install Ruby on your commputer
 
 ### Setup
 
